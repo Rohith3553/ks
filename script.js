@@ -1,5 +1,5 @@
 
-const TARGET_NAME = "Vinni";
+const TARGET_NAME = "keerthi sri";
 document.getElementById("who").textContent = TARGET_NAME;
 
 const noBtn = document.getElementById("noBtn");
@@ -10,7 +10,7 @@ const yayCard = document.getElementById("yayCard");
 const noSound = document.getElementById("noSound");
 const yesSound = document.getElementById("yesSound");
 
-const funnyNoMessages = ["Sure ah?", "Vinni, alochinchu!", "No kottaku 🥺", "Try again!", "Oops! 😂"];
+const funnyNoMessages = ["Sure ah?", "keerthi sri, alochinchu!", "No kottaku 🥺", "Try again!", "Oops! 😂"];
 
 function moveNo() {
     noSound.currentTime = 0;
